@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\bin\Debug\Connectivity.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\bin\Debug\Connectivity.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\Connectivity.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\Connectivity.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\Connectivity.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\WinFormConnectivity\Connectivity\obj\x86\Debug\Connectivity.pdb

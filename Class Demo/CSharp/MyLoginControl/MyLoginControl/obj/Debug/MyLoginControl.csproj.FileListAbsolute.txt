@@ -1,0 +1,8 @@
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\bin\Debug\MyLoginControl.dll
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\bin\Debug\MyLoginControl.pdb
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\obj\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\obj\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\obj\Debug\MyLoginControl.dll
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\obj\Debug\MyLoginControl.pdb
+D:\MS.Net\CSharp\MyLoginControl\MyLoginControl\obj\Debug\MyLoginControl.MyLogin.resources

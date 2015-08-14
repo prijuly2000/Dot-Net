@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\bin\Debug\ProceduresDemo.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\bin\Debug\ProceduresDemo.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\ProceduresDemo.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\ProceduresDemo.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\ProceduresDemo.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ProceduresDemo\ProceduresDemo\obj\x86\Debug\ProceduresDemo.pdb

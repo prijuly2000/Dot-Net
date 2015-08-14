@@ -1,0 +1,10 @@
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\bin\Debug\InterformCommunication.exe
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\bin\Debug\InterformCommunication.pdb
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\InterformCommunication.Form1.resources
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\InterformCommunication.Form2.resources
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\InterformCommunication.Properties.Resources.resources
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\InterformCommunication.exe
+D:\MS.Net\CSharp\InterformCommunication\InterformCommunication\obj\x86\Debug\InterformCommunication.pdb

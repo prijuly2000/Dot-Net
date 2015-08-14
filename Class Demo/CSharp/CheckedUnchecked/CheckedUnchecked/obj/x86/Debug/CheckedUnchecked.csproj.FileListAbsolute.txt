@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\CheckedUnchecked\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe
+D:\MS.Net\CSharp\CheckedUnchecked\CheckedUnchecked\bin\Debug\CheckedUnchecked.pdb
+D:\MS.Net\CSharp\CheckedUnchecked\CheckedUnchecked\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\CheckedUnchecked\CheckedUnchecked\obj\x86\Debug\CheckedUnchecked.exe
+D:\MS.Net\CSharp\CheckedUnchecked\CheckedUnchecked\obj\x86\Debug\CheckedUnchecked.pdb

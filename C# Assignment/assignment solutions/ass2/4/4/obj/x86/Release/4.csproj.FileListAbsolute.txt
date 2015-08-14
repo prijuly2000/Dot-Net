@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass2\4\4\bin\Release\4.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass2\4\4\bin\Release\4.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass2\4\4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass2\4\4\obj\x86\Release\4.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass2\4\4\obj\x86\Release\4.pdb

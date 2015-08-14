@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Office\Office\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Office\Office\bin\Debug\Office.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Office\Office\bin\Debug\Office.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Office\Office\obj\x86\Debug\Office.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Office\Office\obj\x86\Debug\Office.pdb

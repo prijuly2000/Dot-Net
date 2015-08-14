@@ -1,0 +1,16 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\UsingLogin_ok.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\UsingLogin_ok.Form2.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\UsingLogin_ok.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\bin\Debug\UsingLogin-ok.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\bin\Debug\UsingLogin-ok.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\UsingLogin-ok.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\obj\x86\Debug\UsingLogin-ok.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\bin\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\UsingLogin-ok\UsingLogin-ok\bin\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Customized login\UsingLogin\UsingLogin-ok\obj\x86\Debug\UsingLogin-ok.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Customized login\UsingLogin\UsingLogin-ok\obj\x86\Debug\UsingLogin-ok.pdb

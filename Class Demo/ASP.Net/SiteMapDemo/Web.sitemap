@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/home.aspx" title="HOME"  description="">
+      <siteMapNode url="~/faculty.aspx" title="Faculty"  description="">
+        <siteMapNode url="~/admin.aspx" title="Admin"  description=""/>
+    <siteMapNode url="~/technical.aspx" title="Technical" description=""/>        
+      </siteMapNode>
+
+      <siteMapNode url="~/student.aspx" title="Student"  description="" >
+        <siteMapNode url="~/bca.aspx" title="BCA"  description=""/>
+        <siteMapNode url="~/bsc.aspx" title="BSC"  description=""/>
+        <siteMapNode url="~/mca.aspx" title="MCA"  description=""/>
+        <siteMapNode url="~/engg.aspx" title="Engg"  description="">
+          <siteMapNode url="~/civil.aspx" title="Civil"  description=""/>          
+          <siteMapNode url="~/mechanical.aspx" title="Mechanical"  description=""/>
+          <siteMapNode url="~/electrical.aspx" title="Electrical"  description=""/>
+          <siteMapNode url="~/comp.aspx" title="Computer Sc"  description="">
+            <siteMapNode url="~/firstyear.aspx" title="First Year"  description=""/>
+            <siteMapNode url="~/secondyear.aspx" title="Second Year"  description=""/>
+            <siteMapNode url="~/thirdyear.aspx" title="Third Year"  description=""/>
+            <siteMapNode url="~/be.aspx" title="Final Year"  description=""/>
+          </siteMapNode>
+        </siteMapNode>
+       
+          
+
+          </siteMapNode>
+    </siteMapNode>
+</siteMap>

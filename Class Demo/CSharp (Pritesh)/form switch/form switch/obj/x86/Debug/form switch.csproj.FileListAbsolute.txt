@@ -1,0 +1,10 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\bin\Debug\form switch.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\bin\Debug\form switch.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\form_switch.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\form_switch.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\form switch.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\form switch.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\form switch\form switch\obj\x86\Debug\form_switch.Form2.resources

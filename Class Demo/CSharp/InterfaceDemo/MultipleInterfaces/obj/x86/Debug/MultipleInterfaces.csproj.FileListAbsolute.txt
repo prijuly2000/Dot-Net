@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\InterfaceDemo\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe
+D:\MS.Net\CSharp\InterfaceDemo\MultipleInterfaces\bin\Debug\MultipleInterfaces.pdb
+D:\MS.Net\CSharp\InterfaceDemo\MultipleInterfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\InterfaceDemo\MultipleInterfaces\obj\x86\Debug\MultipleInterfaces.exe
+D:\MS.Net\CSharp\InterfaceDemo\MultipleInterfaces\obj\x86\Debug\MultipleInterfaces.pdb

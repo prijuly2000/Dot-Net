@@ -1,0 +1,7 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\2\2\bin\Debug\2.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\2\2\bin\Debug\2.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\2\2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\2\2\obj\x86\Debug\2.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\2\2\obj\x86\Debug\2.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass6\2\2\obj\x86\Debug\2.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass6\2\2\obj\x86\Debug\2.pdb

@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\DemoOfMultiThreading\DemoOfMultiThreading\bin\Debug\DemoOfMultiThreading.exe
+D:\MS.Net\CSharp\DemoOfMultiThreading\DemoOfMultiThreading\bin\Debug\DemoOfMultiThreading.pdb
+D:\MS.Net\CSharp\DemoOfMultiThreading\DemoOfMultiThreading\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\DemoOfMultiThreading\DemoOfMultiThreading\obj\x86\Debug\DemoOfMultiThreading.exe
+D:\MS.Net\CSharp\DemoOfMultiThreading\DemoOfMultiThreading\obj\x86\Debug\DemoOfMultiThreading.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteFileServer">
+</Property><Property Name="Solution File" Value="D:\Vaishali\Remoting\RemoteFileServer\RemoteFileServer.sln">
+</Property><Property Name="User Options File" Value="D:\Vaishali\Remoting\RemoteFileServer\RemoteFileServer.suo">
+</Property><Property Name="Date" Value="Friday, November 30, 2012">
+</Property><Property Name="Time" Value="19:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemoteFileServer.sln" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteFileServer.suo" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileServer.suo">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="RemoteFileServer.csproj" Description="Project file successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileServer.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="Remoting\Server\FileServer.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\Remoting\Server\FileServer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="Remoting\Server\FileServerHost.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\Remoting\Server\FileServerHost.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="Remoting\Server\IFileServer.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\Remoting\Server\IFileServer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="RemoteFileServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemoteFileServer" Source="RemoteFileServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RemoteFileClient" Source="..\RemoteFileClient\RemoteFileClient.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="RemoteFileClient" Source="..\RemoteFileClient\RemoteFileClient.csproj" Description="Project file successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileClient\RemoteFileClient.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteFileClient" Source="..\RemoteFileClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileClient" Source="..\RemoteFileClient\Remoting\Client\FileClient.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileClient\Remoting\Client\FileClient.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileClient" Source="..\RemoteFileClient\Remoting\Client\IFileServer.cs" Description="File successfully backed up as D:\Vaishali\Remoting\RemoteFileServer\Backup\RemoteFileClient\Remoting\Client\IFileServer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteFileClient" Source="..\RemoteFileClient\RemoteFileClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemoteFileClient" Source="..\RemoteFileClient\RemoteFileClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteFileServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RemoteFileServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteFileServer" Source="RemoteFileServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RemoteFileClient" Source="..\RemoteFileClient\RemoteFileClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

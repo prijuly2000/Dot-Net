@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe
+D:\MS.Net\CSharp\LinqDemo\LinqDemo\bin\Debug\LinqDemo.pdb
+D:\MS.Net\CSharp\LinqDemo\LinqDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\LinqDemo\LinqDemo\obj\x86\Debug\LinqDemo.exe
+D:\MS.Net\CSharp\LinqDemo\LinqDemo\obj\x86\Debug\LinqDemo.pdb

@@ -1,0 +1,10 @@
+D:\MS.Net\CSharp\XMLParser\XMLParser\bin\Debug\XMLParser.exe
+D:\MS.Net\CSharp\XMLParser\XMLParser\bin\Debug\XMLParser.pdb
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\XMLParser.Form1.resources
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\XMLParser.Properties.Resources.resources
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\XMLParser.exe
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\XMLParser.pdb
+D:\MS.Net\CSharp\XMLParser\XMLParser\obj\x86\Debug\XMLParser.Form2.resources

@@ -1,0 +1,10 @@
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.pdb
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenericsDemo.Form1.resources
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenericsDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenericsDemo.exe
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenericsDemo.pdb
+D:\MS.Net\CSharp\GenericsDemo\GenericsDemo\obj\x86\Debug\GenericsDemo.Form2.resources

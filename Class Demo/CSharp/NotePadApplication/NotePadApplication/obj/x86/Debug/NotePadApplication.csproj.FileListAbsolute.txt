@@ -1,0 +1,10 @@
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\bin\Debug\NotePadApplication.exe
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\bin\Debug\NotePadApplication.pdb
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\NotePadApplication.Form1.resources
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\NotePadApplication.Properties.Resources.resources
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\NotePadApplication.exe
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\NotePadApplication.pdb
+D:\MS.Net\CSharp\NotePadApplication\NotePadApplication\obj\x86\Debug\NotePadApplication.Form2.resources

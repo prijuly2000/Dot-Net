@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\DelegateEventDemo\DelegateEventDemo\bin\Debug\DelegateEventDemo.exe
+D:\MS.Net\CSharp\DelegateEventDemo\DelegateEventDemo\bin\Debug\DelegateEventDemo.pdb
+D:\MS.Net\CSharp\DelegateEventDemo\DelegateEventDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\DelegateEventDemo\DelegateEventDemo\obj\x86\Debug\DelegateEventDemo.exe
+D:\MS.Net\CSharp\DelegateEventDemo\DelegateEventDemo\obj\x86\Debug\DelegateEventDemo.pdb

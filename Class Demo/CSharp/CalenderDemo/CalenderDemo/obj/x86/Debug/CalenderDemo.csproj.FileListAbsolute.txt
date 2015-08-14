@@ -1,0 +1,9 @@
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\bin\Debug\CalenderDemo.exe
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\bin\Debug\CalenderDemo.pdb
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\CalenderDemo.Form1.resources
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\CalenderDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\CalenderDemo.exe
+D:\MS.Net\CSharp\CalenderDemo\CalenderDemo\obj\x86\Debug\CalenderDemo.pdb

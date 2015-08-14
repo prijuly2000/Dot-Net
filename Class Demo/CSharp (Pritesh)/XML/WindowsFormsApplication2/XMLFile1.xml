@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <emp designation="CLERK">
+    <id>1</id>
+    <name>Pritesh</name>
+    <basic>100</basic>
+  </emp>
+  <emp designation="Manager">
+    <id>2</id>
+    <name>somnath</name>
+    <basic>200</basic>
+  </emp>
+  <emp>
+    <id>3</id>
+    <name>swapnil</name>
+    <basic>300</basic>
+  </emp>
+  <emp designation="SALESMAN">
+    <id>4</id>
+    <name>neeraj</name>
+    <basic>400</basic>
+  </emp>
+  <emp designation="toilet">
+    <id>5</id>
+    <name>dhanno</name>
+    <basic>0.5</basic>
+  </emp>
+</company>

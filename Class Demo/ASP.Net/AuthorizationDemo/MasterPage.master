@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+   
+    <style type="text/css">
+        .style1
+        {
+            width: 99%;
+            height: 257px;
+        }
+        .style2
+        {
+            width: 222px;
+        }
+    </style>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        <table bgcolor="#FFFFCC" border="1" class="style1">
+            <tr>
+                <td class="style2">
+                    <asp:HyperLink ID="HyperLink1" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="#CC0000" NavigateUrl="~/home.aspx">HOME</asp:HyperLink>
+                </td>
+                <td colspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <asp:Label ID="Label1" runat="server" Font-Names="Algerian" 
+                            Font-Size="XX-Large" ForeColor="#CC0000" Text="Label"></asp:Label>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style2">
+                    <asp:HyperLink ID="HyperLink2" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="#CC0000" NavigateUrl="~/Admin/admin.aspx">Admin Page</asp:HyperLink>
+                    <br />
+                    <asp:HyperLink ID="HyperLink3" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="#CC0000" NavigateUrl="~/Faculty/facultypage.aspx">Faculty Page</asp:HyperLink>
+                    <br />
+                    <asp:HyperLink ID="HyperLink4" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="#CC0000" NavigateUrl="~/Student/studentpage.aspx">Student Page</asp:HyperLink>
+                </td>
+                <td rowspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td>
+                    <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" 
+                        LogoutPageUrl="~/home.aspx" style="font-weight: 700" />
+                    <br />
+                    <br />
+                    <asp:LoginName ID="LoginName1" runat="server" style="font-weight: 700" />
+                </td>
+            </tr>
+            <tr>
+                <td class="style2">
+                    &nbsp;</td>
+                <td>
+                    &nbsp;</td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+</body>
+</html>

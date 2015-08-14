@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\bin\Debug\Next-previous-disconnectedArch.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\bin\Debug\Next-previous-disconnectedArch.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\Next_previous_disconnectedArch.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\Next_previous_disconnectedArch.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\Next-previous-disconnectedArch.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Next-previous-disconnectedArch\Next-previous-disconnectedArch\obj\x86\Debug\Next-previous-disconnectedArch.pdb

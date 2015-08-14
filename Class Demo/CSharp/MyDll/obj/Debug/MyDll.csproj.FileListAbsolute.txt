@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\MyDll\bin\Debug\MyDll.dll
+D:\MS.Net\CSharp\MyDll\bin\Debug\MyDll.pdb
+D:\MS.Net\CSharp\MyDll\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\MyDll\obj\Debug\MyDll.dll
+D:\MS.Net\CSharp\MyDll\obj\Debug\MyDll.pdb

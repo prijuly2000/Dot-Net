@@ -1,0 +1,38 @@
+D:\Vaishali\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Vaishali\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+D:\Vaishali\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\Vaishali madam MS.NET\Batch B\MS.Net\ASP.Net\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

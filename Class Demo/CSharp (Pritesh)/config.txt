@@ -1,0 +1,5 @@
+<system.web>
+  <authentication mode="Forms">
+    <forms defaultUrl="~/secured" loginUrl="~/login.aspx" />
+  </authentication>
+</system.web>

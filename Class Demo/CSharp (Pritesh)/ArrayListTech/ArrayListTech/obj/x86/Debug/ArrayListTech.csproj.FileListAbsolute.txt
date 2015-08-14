@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ArrayListTech\ArrayListTech\bin\Debug\ArrayListTech.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ArrayListTech\ArrayListTech\bin\Debug\ArrayListTech.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ArrayListTech\ArrayListTech\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ArrayListTech\ArrayListTech\obj\x86\Debug\ArrayListTech.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ArrayListTech\ArrayListTech\obj\x86\Debug\ArrayListTech.pdb

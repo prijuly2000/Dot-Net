@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Company>
+  <Emp Dept="Development" Designation="Manager">
+    <Eid>101</Eid>
+    <EName>Javed</EName>
+    <Basic>10000</Basic>
+  </Emp>
+  <Emp Dept="Accounts" Designation="Clerk">
+    <Eid>202</Eid>
+    <EName>Vama</EName>
+    <Basic>22000</Basic>
+  </Emp>
+  <Emp Dept="Account" Designation="Clerk">
+    <Eid>303</Eid>
+    <EName>Kasab</EName>
+    <Basic>33000</Basic>
+  </Emp>
+  <Emp Dept="Development" Designation="CEO">
+    <Eid>404</Eid>
+    <EName>Bond</EName>
+    <Basic>007</Basic>
+  </Emp>
+  <Emp Dept="Finance" Designation="Assistant Mgr">
+    <Eid>505</Eid>
+    <EName>Aslam</EName>
+    <Basic>53000</Basic>
+  </Emp>
+  <Emp Dept="All" Designation="God Father">
+    <Eid>606</Eid>
+    <EName>Rajni Kant</EName>
+    <Basic>******</Basic>
+  </Emp>
+  <Emp Department="Academic" Designation="Professor">
+    <EId>707</EId>
+    <EName>Chotu</EName>
+    <Basic>34000</Basic>
+  </Emp>
+</Company>

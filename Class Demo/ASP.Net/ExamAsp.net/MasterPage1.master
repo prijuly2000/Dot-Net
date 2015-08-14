@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage1.master.cs" Inherits="MasterPage1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table class="style1">
+        <tr>
+            <td colspan="3">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Label 
+                        ID="Label1" runat="server" Text="Welcome to master page" Font-Bold="True" 
+                        Font-Italic="False" Font-Overline="True" Font-Size="X-Large" 
+                        Font-Underline="True"></asp:Label>
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Admin/Admin.aspx">Admin</asp:HyperLink>
+                    <br />
+                    <br />
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Student/Student.aspx">Student</asp:HyperLink>
+                </asp:ContentPlaceHolder>
+                <br />
+                <br />
+                
+            </td>
+            <td rowspan="3">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+                    <asp:Login ID="Login1" runat="server">
+                    </asp:Login>
+                </asp:ContentPlaceHolder>
+            </td>
+            <td>
+                <asp:LoginStatus ID="LoginStatus1" runat="server" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:LoginName ID="LoginName1" runat="server" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+            <td>
+                &nbsp;</td>
+            <td>
+                &nbsp;</td>
+        </tr>
+    </table>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Home.aspx">Home</asp:HyperLink>
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

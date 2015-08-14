@@ -1,0 +1,8 @@
+D:\MS.Net\CSharp\BatchB_LoginControl\bin\Debug\BatchB_LoginControl.dll
+D:\MS.Net\CSharp\BatchB_LoginControl\bin\Debug\BatchB_LoginControl.pdb
+D:\MS.Net\CSharp\BatchB_LoginControl\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\BatchB_LoginControl\obj\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\BatchB_LoginControl\obj\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\BatchB_LoginControl\obj\Debug\BatchB_LoginControl.dll
+D:\MS.Net\CSharp\BatchB_LoginControl\obj\Debug\BatchB_LoginControl.pdb
+D:\MS.Net\CSharp\BatchB_LoginControl\obj\Debug\BatchB_LoginControl.BatchB_Login.resources

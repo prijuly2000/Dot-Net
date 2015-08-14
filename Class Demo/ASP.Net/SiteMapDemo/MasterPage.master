@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+  
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 244px;
+        }
+    </style>
+  
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        <table bgcolor="#CCFFCC" border="1" class="style1">
+            <tr>
+                <td colspan="2" align="center">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <asp:Label ID="Label1" runat="server" Font-Names="Algerian" 
+                            Font-Size="XX-Large" ForeColor="#006699" Text="Welcome"></asp:Label>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                </td>
+                <td>
+                    <asp:SiteMapPath ID="SiteMapPath1" runat="server" ParentLevelsDisplayed="2">
+                    </asp:SiteMapPath>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
+                    </asp:Menu>
+                </td>
+                <td>
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    <br />
+                    <br />
+                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" 
+                        Height="163px" Width="124px">
+                    </asp:TreeView>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        <asp:HyperLink ID="HyperLink2" runat="server" style="font-weight: 700">HyperLink</asp:HyperLink>
+                        <br />
+                        <br />
+                        <asp:HyperLink ID="HyperLink3" runat="server" style="font-weight: 700">HyperLink</asp:HyperLink>
+                        <br />
+                        <br />
+                        <asp:HyperLink ID="HyperLink4" runat="server" style="font-weight: 700">HyperLink</asp:HyperLink>
+                        <br />
+                        <br />
+                        <asp:HyperLink ID="HyperLink5" runat="server" style="font-weight: 700">HyperLink</asp:HyperLink>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/home.aspx" 
+                        style="font-weight: 700">HOME</asp:HyperLink>
+                </td>
+                <td>
+                    &nbsp;</td>
+            </tr>
+        </table>
+       
+    </div>
+    </form>
+</body>
+</html>

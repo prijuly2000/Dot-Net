@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\bin\Debug\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\bin\Debug\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\obj\x86\Debug\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\obj\x86\Debug\exam.pdb

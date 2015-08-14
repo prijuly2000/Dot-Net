@@ -1,0 +1,9 @@
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.Form1.resources
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+D:\MS.Net\CSharp\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb

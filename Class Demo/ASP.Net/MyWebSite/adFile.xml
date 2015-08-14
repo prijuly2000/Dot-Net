@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/Sunset.jpg</ImageUrl>
+    <Height>80</Height>
+    <Width>120</Width>
+    <NavigateUrl>Default.aspx</NavigateUrl>
+    <AlternateText>Microsoft Main Site</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Education</Keyword>
+    <Caption>This is the caption for Ad#1</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Winter.jpg</ImageUrl>
+    <Height>90</Height>
+    <Width>90</Width>
+    <NavigateUrl>Default2.aspx</NavigateUrl>
+    <AlternateText>Wingtip Toys</AlternateText>
+    <Impressions>60</Impressions>
+    <Keyword>Education</Keyword>
+    <Caption>This is the caption for Ad#2</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Water Lilies.jpg</ImageUrl>
+    <Height>80</Height>
+    <Width>110</Width>
+    <NavigateUrl>Default3.aspx</NavigateUrl>
+    <AlternateText>Wingtip Toys</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>Fun</Keyword>
+    <Caption>This is the caption for Ad#2</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Blue Hills.jpg</ImageUrl>
+    <Height>110</Height>
+    <Width>140</Width>
+    <NavigateUrl>Default4.aspx</NavigateUrl>
+    <AlternateText>Wingtip Toys</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Fun
+    
+    </Keyword>
+    <Caption>This is the caption for Ad#2</Caption>
+  </Ad>
+</Advertisements>

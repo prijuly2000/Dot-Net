@@ -1,0 +1,10 @@
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\bin\Debug\UserAndCustom.exe
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\bin\Debug\UserAndCustom.pdb
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\UserAndCustom.MyLogin.resources
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\UserAndCustom.Properties.Resources.resources
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\UserAndCustom.exe
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\UserAndCustom.pdb
+D:\MS.Net\Revision\UserAndCustom\UserAndCustom\obj\x86\Debug\UserAndCustom.Form1.resources

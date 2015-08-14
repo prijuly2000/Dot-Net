@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\SynchronizationDemo\SynchronizationDemo\bin\Debug\SynchronizationDemo.exe
+D:\MS.Net\CSharp\SynchronizationDemo\SynchronizationDemo\bin\Debug\SynchronizationDemo.pdb
+D:\MS.Net\CSharp\SynchronizationDemo\SynchronizationDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\SynchronizationDemo\SynchronizationDemo\obj\x86\Debug\SynchronizationDemo.exe
+D:\MS.Net\CSharp\SynchronizationDemo\SynchronizationDemo\obj\x86\Debug\SynchronizationDemo.pdb

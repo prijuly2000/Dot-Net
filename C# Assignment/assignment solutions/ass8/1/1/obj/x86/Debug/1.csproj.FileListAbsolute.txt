@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass8\1\1\bin\Debug\1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass8\1\1\bin\Debug\1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass8\1\1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass8\1\1\obj\x86\Debug\1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass8\1\1\obj\x86\Debug\1.pdb

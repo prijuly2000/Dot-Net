@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\bin\Release\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\bin\Release\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\obj\x86\Release\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\obj\x86\Release\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\exam\exam\obj\x86\Release\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\don exam\exam\exam\obj\x86\Release\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\don exam\exam\exam\obj\x86\Release\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\LinkList\exam\exam\obj\x86\Release\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\LinkList\exam\exam\obj\x86\Release\exam.pdb

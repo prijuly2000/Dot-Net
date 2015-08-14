@@ -1,0 +1,8 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\bin\Debug\connectivity.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\bin\Debug\connectivity.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\obj\x86\Debug\connectivity.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\obj\x86\Debug\connectivity.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\obj\x86\Debug\connectivity.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\connectivity\connectivity\obj\x86\Debug\GenerateResource.write.1.tlog

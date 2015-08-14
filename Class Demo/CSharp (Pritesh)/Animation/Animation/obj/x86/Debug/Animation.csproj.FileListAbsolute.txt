@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\bin\Debug\Animation.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\bin\Debug\Animation.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\Animation.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\Animation.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\Animation.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Animation\Animation\obj\x86\Debug\Animation.pdb

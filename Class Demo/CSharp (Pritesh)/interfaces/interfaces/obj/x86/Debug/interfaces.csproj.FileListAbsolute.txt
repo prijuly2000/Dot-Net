@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\interfaces\interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\interfaces\interfaces\bin\Debug\interfaces.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\interfaces\interfaces\bin\Debug\interfaces.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\interfaces\interfaces\obj\x86\Debug\interfaces.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\interfaces\interfaces\obj\x86\Debug\interfaces.pdb

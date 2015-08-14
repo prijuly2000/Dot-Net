@@ -1,0 +1,7 @@
+D:\MS.Net\CSharp\MyTime\bin\Debug\MyTime.exe
+D:\MS.Net\CSharp\MyTime\bin\Debug\MyTime.pdb
+D:\MS.Net\CSharp\MyTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\MyTime\obj\x86\Debug\MyTime.exe
+D:\MS.Net\CSharp\MyTime\obj\x86\Debug\MyTime.pdb
+D:\nt-pritz\MS.NET\Vaishali madam demo\Batch B\MS.Net\MS.Net\CSharp\MyTime\obj\x86\Debug\MyTime.exe
+D:\nt-pritz\MS.NET\Vaishali madam demo\Batch B\MS.Net\MS.Net\CSharp\MyTime\obj\x86\Debug\MyTime.pdb

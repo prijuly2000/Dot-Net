@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ConsoleConnectivity\ConsoleConnectivity\bin\Debug\ConsoleConnectivity.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ConsoleConnectivity\ConsoleConnectivity\bin\Debug\ConsoleConnectivity.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ConsoleConnectivity\ConsoleConnectivity\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ConsoleConnectivity\ConsoleConnectivity\obj\x86\Debug\ConsoleConnectivity.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\ConsoleConnectivity\ConsoleConnectivity\obj\x86\Debug\ConsoleConnectivity.pdb

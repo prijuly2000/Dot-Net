@@ -1,0 +1,10 @@
+D:\MS.Net\CSharp\FormCommunication\bin\Debug\FormCommunication.exe
+D:\MS.Net\CSharp\FormCommunication\bin\Debug\FormCommunication.pdb
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\FormCommunication.Form1.resources
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\FormCommunication.Form2.resources
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\FormCommunication.Properties.Resources.resources
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\FormCommunication.exe
+D:\MS.Net\CSharp\FormCommunication\obj\x86\Debug\FormCommunication.pdb

@@ -1,0 +1,8 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\login.UserControl1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\bin\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\bin\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\login.pdb

@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe
+D:\MS.Net\CSharp\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.pdb
+D:\MS.Net\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\x86\Debug\PreprocessorDirectives.exe
+D:\MS.Net\CSharp\PreprocessorDirectives\PreprocessorDirectives\obj\x86\Debug\PreprocessorDirectives.pdb

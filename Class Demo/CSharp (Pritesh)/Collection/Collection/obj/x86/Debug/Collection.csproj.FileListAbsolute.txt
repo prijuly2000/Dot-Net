@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\bin\Debug\Collection.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\bin\Debug\Collection.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\Collection.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\Collection.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\Collection.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Collection\Collection\obj\x86\Debug\Collection.pdb

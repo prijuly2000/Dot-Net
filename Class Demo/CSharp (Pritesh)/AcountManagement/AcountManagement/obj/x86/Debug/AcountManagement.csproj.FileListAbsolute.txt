@@ -1,0 +1,16 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Form2.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Form3.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\bin\Debug\AcountManagement.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\bin\Debug\AcountManagement.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\bin\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\bin\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Form4.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Form5.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\AcountManagement\AcountManagement\obj\x86\Debug\AcountManagement.Form6.resources

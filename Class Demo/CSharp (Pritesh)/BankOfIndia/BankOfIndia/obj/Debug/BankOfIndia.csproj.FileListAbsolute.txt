@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\BankOfIndia\BankOfIndia\obj\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\BankOfIndia\BankOfIndia\bin\Debug\BankOfIndia.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\BankOfIndia\BankOfIndia\bin\Debug\BankOfIndia.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\BankOfIndia\BankOfIndia\obj\Debug\BankOfIndia.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\BankOfIndia\BankOfIndia\obj\Debug\BankOfIndia.pdb

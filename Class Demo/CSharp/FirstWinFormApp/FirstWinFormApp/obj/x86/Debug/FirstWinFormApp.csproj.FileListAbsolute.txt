@@ -1,0 +1,11 @@
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\bin\Debug\FirstWinFormApp.exe
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\bin\Debug\FirstWinFormApp.pdb
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\FirstWinFormApp.Properties.Resources.resources
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\FirstWinFormApp.exe
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\FirstWinFormApp.pdb
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\FirstWinFormApp.Form1.resources
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\FirstWinFormApp.Form2.resources
+D:\MS.Net\CSharp\FirstWinFormApp\FirstWinFormApp\obj\x86\Debug\FirstWinFormApp.Form3.resources

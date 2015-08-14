@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe
+D:\MS.Net\CSharp\ConnectedArchitecture\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.pdb
+D:\MS.Net\CSharp\ConnectedArchitecture\ConnectedArchitecture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\ConnectedArchitecture\ConnectedArchitecture\obj\x86\Debug\ConnectedArchitecture.exe
+D:\MS.Net\CSharp\ConnectedArchitecture\ConnectedArchitecture\obj\x86\Debug\ConnectedArchitecture.pdb

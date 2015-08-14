@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\bin\Debug\form1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\bin\Debug\form1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\form1.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\form1.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\form1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\forms\form1\form1\obj\x86\Debug\form1.pdb

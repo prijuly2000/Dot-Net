@@ -1,0 +1,8 @@
+D:\MS.Net\Revision\ProductLib\FileReadControl\bin\Debug\FileReadControl.dll
+D:\MS.Net\Revision\ProductLib\FileReadControl\bin\Debug\FileReadControl.pdb
+D:\MS.Net\Revision\ProductLib\FileReadControl\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\Revision\ProductLib\FileReadControl\obj\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\Revision\ProductLib\FileReadControl\obj\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\Revision\ProductLib\FileReadControl\obj\Debug\FileReadControl.dll
+D:\MS.Net\Revision\ProductLib\FileReadControl\obj\Debug\FileReadControl.pdb
+D:\MS.Net\Revision\ProductLib\FileReadControl\obj\Debug\FileReadControl.MySearch.resources

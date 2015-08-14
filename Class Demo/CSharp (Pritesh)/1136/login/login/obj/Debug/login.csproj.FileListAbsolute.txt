@@ -1,0 +1,32 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\login.UserControl1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\bin\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\bin\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\login\login\obj\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\bin\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\bin\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\obj\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\obj\Debug\login.UserControl1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\obj\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\obj\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\obj\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass10\Customized login\login\login\obj\Debug\login.pdb
+C:\Documents and Settings\dac\Desktop\1136\login\login\bin\Debug\login.dll
+C:\Documents and Settings\dac\Desktop\1136\login\login\bin\Debug\login.pdb
+C:\Documents and Settings\dac\Desktop\1136\login\login\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dac\Desktop\1136\login\login\obj\Debug\login.UserControl1.resources
+C:\Documents and Settings\dac\Desktop\1136\login\login\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dac\Desktop\1136\login\login\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dac\Desktop\1136\login\login\obj\Debug\login.dll
+C:\Documents and Settings\dac\Desktop\1136\login\login\obj\Debug\login.pdb
+D:\pritzz\1136\login\login\bin\Debug\login.dll
+D:\pritzz\1136\login\login\bin\Debug\login.pdb
+D:\pritzz\1136\login\login\obj\Debug\ResolveAssemblyReference.cache
+D:\pritzz\1136\login\login\obj\Debug\login.UserControl1.resources
+D:\pritzz\1136\login\login\obj\Debug\GenerateResource.read.1.tlog
+D:\pritzz\1136\login\login\obj\Debug\GenerateResource.write.1.tlog
+D:\pritzz\1136\login\login\obj\Debug\login.dll
+D:\pritzz\1136\login\login\obj\Debug\login.pdb

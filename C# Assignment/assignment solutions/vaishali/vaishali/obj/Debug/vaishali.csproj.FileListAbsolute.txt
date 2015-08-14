@@ -1,0 +1,5 @@
+c:\users\pritzz\documents\visual studio 2012\Projects\vaishali\vaishali\bin\vaishali.dll
+c:\users\pritzz\documents\visual studio 2012\Projects\vaishali\vaishali\bin\vaishali.pdb
+c:\users\pritzz\documents\visual studio 2012\Projects\vaishali\vaishali\obj\Debug\vaishali.csprojResolveAssemblyReference.cache
+c:\users\pritzz\documents\visual studio 2012\Projects\vaishali\vaishali\obj\Debug\vaishali.dll
+c:\users\pritzz\documents\visual studio 2012\Projects\vaishali\vaishali\obj\Debug\vaishali.pdb

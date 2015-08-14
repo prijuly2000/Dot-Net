@@ -1,0 +1,7 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass3\ass3\obj\x86\Release\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass3\ass3\bin\Release\ass3.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass3\ass3\bin\Release\ass3.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass3\ass3\obj\x86\Release\ass3.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass3\ass3\obj\x86\Release\ass3.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass3\ass3\obj\x86\Release\ass3.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass3\ass3\obj\x86\Release\ass3.pdb

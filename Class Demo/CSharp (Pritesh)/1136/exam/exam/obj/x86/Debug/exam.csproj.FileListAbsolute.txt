@@ -1,0 +1,47 @@
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\bin\Debug\exam.exe
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\bin\Debug\exam.pdb
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\bin\Debug\login.dll
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\bin\Debug\login.pdb
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.Form1.resources
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.Properties.Resources.resources
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.exe
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.pdb
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.Form2.resources
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.Form3.resources
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.Form4.resources
+C:\Documents and Settings\dac\Desktop\1136\exam\exam\obj\x86\Debug\exam.Form5.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.exe
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.pdb
+D:\pritzz\1136\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.Form1.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.Form2.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.Form3.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.Form4.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.Form5.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\exam.Properties.Resources.resources
+D:\pritzz\1136\exam\exam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pritzz\1136\exam\exam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\pritzz\1136\exam\exam\bin\Debug\exam.exe
+D:\pritzz\1136\exam\exam\bin\Debug\exam.pdb
+D:\pritzz\1136\exam\exam\bin\Debug\login.dll
+D:\pritzz\1136\exam\exam\bin\Debug\login.pdb
+\\server2\STAFF\pritz\1136\exam\exam\obj\x86\Debug\exam.exe
+\\server2\STAFF\pritz\1136\exam\exam\obj\x86\Debug\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\bin\Debug\exam.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\bin\Debug\exam.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\bin\Debug\login.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\bin\Debug\login.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.Form2.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.Form3.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.Form4.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.Form5.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\exam.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\1136\exam\exam\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+D:\MS.Net\CSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+D:\MS.Net\CSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\x86\Debug\ExceptionHandlingDemo.exe
+D:\MS.Net\CSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\x86\Debug\ExceptionHandlingDemo.pdb

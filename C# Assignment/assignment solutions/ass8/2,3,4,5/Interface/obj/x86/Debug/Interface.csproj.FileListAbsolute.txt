@@ -1,0 +1,12 @@
+E:\swapnil\Interface\Interface\bin\Debug\Interface.exe
+E:\swapnil\Interface\Interface\bin\Debug\Interface.pdb
+E:\swapnil\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\swapnil\Interface\Interface\obj\x86\Debug\Interface.exe
+E:\swapnil\Interface\Interface\obj\x86\Debug\Interface.pdb
+D:\microsoft.net\c#\class demo\Interface\Interface\obj\x86\Debug\Interface.exe
+D:\microsoft.net\c#\class demo\Interface\Interface\obj\x86\Debug\Interface.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Interface\Interface\obj\x86\Debug\Interface.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Interface\Interface\obj\x86\Debug\Interface.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Interface\Interface\bin\Debug\Interface.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Interface\Interface\bin\Debug\Interface.pdb

@@ -1,0 +1,9 @@
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\bin\Debug\ImageListDemo.exe
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\bin\Debug\ImageListDemo.pdb
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\ImageListDemo.Form1.resources
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\ImageListDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\ImageListDemo.exe
+D:\MS.Net\CSharp\ImageListDemo\ImageListDemo\obj\x86\Debug\ImageListDemo.pdb

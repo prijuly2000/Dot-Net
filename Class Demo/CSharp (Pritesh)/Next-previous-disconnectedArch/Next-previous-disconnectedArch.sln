@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next-previous-disconnectedArch", "Next-previous-disconnectedArch\Next-previous-disconnectedArch.csproj", "{4D22D70D-2EAD-446F-9E5E-96D3C59BAE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D22D70D-2EAD-446F-9E5E-96D3C59BAE77}.Debug|x86.ActiveCfg = Debug|x86
+		{4D22D70D-2EAD-446F-9E5E-96D3C59BAE77}.Debug|x86.Build.0 = Debug|x86
+		{4D22D70D-2EAD-446F-9E5E-96D3C59BAE77}.Release|x86.ActiveCfg = Release|x86
+		{4D22D70D-2EAD-446F-9E5E-96D3C59BAE77}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

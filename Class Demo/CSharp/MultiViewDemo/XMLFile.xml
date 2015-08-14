@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mobile>
+    <company>
+        <name>Mobile1</name>
+        <price>1000</price>
+        <model>1111</model>
+    </company>
+
+    <company>
+        <name>Mobile2</name>
+        <price>2000</price>
+        <model>2222</model>
+    </company>
+
+    <company>
+        <name>Mobile3</name>
+        <price>3000</price>
+        <model>3333</model>
+    </company>
+</mobile>

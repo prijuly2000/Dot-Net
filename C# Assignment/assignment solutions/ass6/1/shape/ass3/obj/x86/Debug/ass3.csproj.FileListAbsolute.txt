@@ -1,0 +1,14 @@
+D:\NetFramework\C_Sharp\1ass3\ass3\bin\Debug\ass3.exe
+D:\NetFramework\C_Sharp\1ass3\ass3\bin\Debug\ass3.pdb
+D:\NetFramework\C_Sharp\1ass3\ass3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NetFramework\C_Sharp\1ass3\ass3\obj\x86\Debug\ass3.exe
+D:\NetFramework\C_Sharp\1ass3\ass3\obj\x86\Debug\ass3.pdb
+D:\NetFramework\C_Sharp\1ass3\ass3\bin\Debug\Anup_Ashu.dll
+D:\NetFramework\C_Sharp\1ass3\ass3\bin\Debug\Anup_Ashu.pdb
+D:\NetFramework\C_Sharp\1ass3\ass3\bin\Debug\ashu.dll
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass4\2\ass3\obj\x86\Debug\ass3.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass4\2\ass3\obj\x86\Debug\ass3.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass4\2\ass3\bin\Debug\ass3.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass4\2\ass3\bin\Debug\ass3.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass4\2\ass3\bin\Debug\Anup_Ashu.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass4\2\ass3\obj\x86\Debug\ResolveAssemblyReference.cache

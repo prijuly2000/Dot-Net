@@ -1,0 +1,5 @@
+D:\MS.Net\Revision\ProductLib\ProductLib\bin\Debug\ProductLib.dll
+D:\MS.Net\Revision\ProductLib\ProductLib\bin\Debug\ProductLib.pdb
+D:\MS.Net\Revision\ProductLib\ProductLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\Revision\ProductLib\ProductLib\obj\Debug\ProductLib.dll
+D:\MS.Net\Revision\ProductLib\ProductLib\obj\Debug\ProductLib.pdb

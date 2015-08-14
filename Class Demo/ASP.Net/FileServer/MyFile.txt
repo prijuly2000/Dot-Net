@@ -1,0 +1,4 @@
+Share point is a three tiered application. Presentation layer lives in the file system  as an ASP.NET application, logic lives in  .NET assemblies and the data resides in a SQL server database. 
+On the surface, Widows Share Point services is a web application that provides a collection of services accessed through share point web pages, XML web services and a .NET application programming interface (API). 
+Share points core functionality is provided by an infrastructure of .NET assemblies and Windows Services.
+Share point stores all content and configuration in SQL Server database.  These databases contain stored procedures and other potential points of interaction. 

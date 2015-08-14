@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+D:\MS.Net\CSharp\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+D:\MS.Net\CSharp\InterfaceDemo\InterfaceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\InterfaceDemo\InterfaceDemo\obj\x86\Debug\InterfaceDemo.exe
+D:\MS.Net\CSharp\InterfaceDemo\InterfaceDemo\obj\x86\Debug\InterfaceDemo.pdb

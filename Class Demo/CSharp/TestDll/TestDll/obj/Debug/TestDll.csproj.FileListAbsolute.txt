@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\TestDll\TestDll\bin\Debug\TestDll.dll
+D:\MS.Net\CSharp\TestDll\TestDll\bin\Debug\TestDll.pdb
+D:\MS.Net\CSharp\TestDll\TestDll\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\TestDll\TestDll\obj\Debug\TestDll.dll
+D:\MS.Net\CSharp\TestDll\TestDll\obj\Debug\TestDll.pdb

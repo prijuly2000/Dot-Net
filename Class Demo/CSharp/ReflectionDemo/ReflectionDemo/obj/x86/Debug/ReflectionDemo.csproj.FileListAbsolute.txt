@@ -1,0 +1,9 @@
+D:\MS.Net\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+D:\MS.Net\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\ReflectionDemo.Form1.resources
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\ReflectionDemo.Properties.Resources.resources
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\ReflectionDemo.exe
+D:\MS.Net\ReflectionDemo\ReflectionDemo\obj\x86\Debug\ReflectionDemo.pdb

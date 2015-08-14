@@ -1,0 +1,16 @@
+D:\MS.Net\Revision\InventoryMS\bin\Debug\InventoryMS.exe
+D:\MS.Net\Revision\InventoryMS\bin\Debug\InventoryMS.pdb
+D:\MS.Net\Revision\InventoryMS\bin\Debug\ProductLib.dll
+D:\MS.Net\Revision\InventoryMS\bin\Debug\ProductLib.pdb
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.Form1.resources
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.Properties.Resources.resources
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.exe
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.pdb
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.Form2.resources
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.Form3.resources
+D:\MS.Net\Revision\InventoryMS\obj\x86\Debug\InventoryMS.Form4.resources
+D:\MS.Net\Revision\InventoryMS\bin\Debug\FileReadControl.dll
+D:\MS.Net\Revision\InventoryMS\bin\Debug\FileReadControl.pdb

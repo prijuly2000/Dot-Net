@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\FileIO\FileIO\bin\Debug\FileIO.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\FileIO\FileIO\bin\Debug\FileIO.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\FileIO\FileIO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\FileIO\FileIO\obj\x86\Debug\FileIO.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\FileIO\FileIO\obj\x86\Debug\FileIO.pdb

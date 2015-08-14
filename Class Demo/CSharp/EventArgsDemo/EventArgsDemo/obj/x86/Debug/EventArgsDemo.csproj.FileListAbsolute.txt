@@ -1,0 +1,9 @@
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\bin\Debug\EventArgsDemo.exe
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\bin\Debug\EventArgsDemo.pdb
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\EventArgsDemo.Form1.resources
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\EventArgsDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\EventArgsDemo.exe
+D:\MS.Net\CSharp\EventArgsDemo\EventArgsDemo\obj\x86\Debug\EventArgsDemo.pdb

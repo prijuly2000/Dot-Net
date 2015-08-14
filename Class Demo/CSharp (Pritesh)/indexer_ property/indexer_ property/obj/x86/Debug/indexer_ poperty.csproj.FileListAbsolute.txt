@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\indexer_ poperty\indexer_ poperty\bin\Debug\indexer_ poperty.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\indexer_ poperty\indexer_ poperty\bin\Debug\indexer_ poperty.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\indexer_ poperty\indexer_ poperty\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\indexer_ poperty\indexer_ poperty\obj\x86\Debug\indexer_ poperty.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\indexer_ poperty\indexer_ poperty\obj\x86\Debug\indexer_ poperty.pdb

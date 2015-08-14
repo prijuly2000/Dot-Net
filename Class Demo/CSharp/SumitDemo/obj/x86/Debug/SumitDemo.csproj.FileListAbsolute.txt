@@ -1,0 +1,11 @@
+D:\MS.Net\CSharp\SumitDemo\bin\Debug\SumitDemo.exe
+D:\MS.Net\CSharp\SumitDemo\bin\Debug\SumitDemo.pdb
+D:\MS.Net\CSharp\SumitDemo\bin\Debug\TestDll.dll
+D:\MS.Net\CSharp\SumitDemo\bin\Debug\TestDll.pdb
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\SumitDemo.Form1.resources
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\SumitDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\SumitDemo.exe
+D:\MS.Net\CSharp\SumitDemo\obj\x86\Debug\SumitDemo.pdb

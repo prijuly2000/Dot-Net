@@ -1,0 +1,10 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass5\ass5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass5\ass5\bin\Debug\ass5.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass5\ass5\bin\Debug\ass5.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass5\ass5\obj\x86\Debug\ass5.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass5\ass5\obj\x86\Debug\ass5.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\account\ass5\obj\x86\Debug\ass5.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\account\ass5\obj\x86\Debug\ass5.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\account\ass5\bin\Debug\ass5.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\account\ass5\bin\Debug\ass5.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\ass\ass6\account\ass5\obj\x86\Debug\ResolveAssemblyReference.cache

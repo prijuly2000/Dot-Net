@@ -1,0 +1,12 @@
+D:\MS.Net\CSharp\QuizApp\bin\Debug\QuizApp.exe
+D:\MS.Net\CSharp\QuizApp\bin\Debug\QuizApp.pdb
+D:\MS.Net\CSharp\QuizApp\bin\Debug\LoginControl.dll
+D:\MS.Net\CSharp\QuizApp\bin\Debug\LoginControl.pdb
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\QuizApp.Form1.resources
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\QuizApp.Properties.Resources.resources
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\QuizApp.exe
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\QuizApp.pdb
+D:\MS.Net\CSharp\QuizApp\obj\x86\Debug\QuizApp.Form2.resources

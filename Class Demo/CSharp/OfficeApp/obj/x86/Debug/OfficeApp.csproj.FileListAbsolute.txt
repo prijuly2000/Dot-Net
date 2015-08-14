@@ -1,0 +1,11 @@
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\OfficeApp.Form1.resources
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\OfficeApp.Properties.Resources.resources
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\OfficeApp\bin\Debug\OfficeApp.exe
+D:\MS.Net\CSharp\OfficeApp\bin\Debug\OfficeApp.pdb
+D:\MS.Net\CSharp\OfficeApp\bin\Debug\OfficeUtility.dll
+D:\MS.Net\CSharp\OfficeApp\bin\Debug\OfficeUtility.pdb
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\OfficeApp.exe
+D:\MS.Net\CSharp\OfficeApp\obj\x86\Debug\OfficeApp.pdb

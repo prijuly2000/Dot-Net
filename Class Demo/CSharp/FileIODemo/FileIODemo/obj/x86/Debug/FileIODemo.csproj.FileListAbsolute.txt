@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\FileIODemo\FileIODemo\bin\Debug\FileIODemo.exe
+D:\MS.Net\CSharp\FileIODemo\FileIODemo\bin\Debug\FileIODemo.pdb
+D:\MS.Net\CSharp\FileIODemo\FileIODemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\FileIODemo\FileIODemo\obj\x86\Debug\FileIODemo.exe
+D:\MS.Net\CSharp\FileIODemo\FileIODemo\obj\x86\Debug\FileIODemo.pdb

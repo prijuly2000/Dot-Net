@@ -1,0 +1,5 @@
+D:\MS.Net\CSharp\OfficeUtility\OfficeUtility\bin\Debug\OfficeUtility.dll
+D:\MS.Net\CSharp\OfficeUtility\OfficeUtility\bin\Debug\OfficeUtility.pdb
+D:\MS.Net\CSharp\OfficeUtility\OfficeUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\OfficeUtility\OfficeUtility\obj\Debug\OfficeUtility.dll
+D:\MS.Net\CSharp\OfficeUtility\OfficeUtility\obj\Debug\OfficeUtility.pdb

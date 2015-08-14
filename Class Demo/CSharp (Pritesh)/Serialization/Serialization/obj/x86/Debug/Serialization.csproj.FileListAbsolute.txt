@@ -1,0 +1,5 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Serialization\Serialization\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Serialization\Serialization\obj\x86\Debug\Serialization.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Serialization\Serialization\obj\x86\Debug\Serialization.pdb

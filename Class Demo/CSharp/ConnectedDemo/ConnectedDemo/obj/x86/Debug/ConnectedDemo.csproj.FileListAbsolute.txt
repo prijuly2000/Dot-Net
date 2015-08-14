@@ -1,0 +1,12 @@
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.exe
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\bin\Debug\ConnectedDemo.pdb
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ConnectedDemo.Form1.resources
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ConnectedDemo.Properties.Resources.resources
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ConnectedDemo.exe
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ConnectedDemo.pdb
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ConnectedDemo.Form2.resources
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\obj\x86\Debug\ConnectedDemo.Form3.resources
+D:\MS.Net\CSharp\ConnectedDemo\ConnectedDemo\bin\Debug\system.data.oracleclient.dll

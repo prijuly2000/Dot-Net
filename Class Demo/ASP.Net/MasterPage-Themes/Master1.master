@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Master1.master.cs" Inherits="Master1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table  class="style1">
+            <tr>
+                <td align="center" colspan="2" 
+                    style="font-family: Algerian; text-decoration: underline overline blink">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                        <asp:Label ID="Label3" runat="server" Text="Welcome To Internet explorer" 
+                            BackColor="White" ForeColor="Black" SkinID="A"></asp:Label>
+                    </asp:ContentPlaceHolder>
+                 </td>
+                 
+            </tr>
+            <tr>
+                <td>
+                    Username</td>
+                <td>
+                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password</td>
+                <td>
+                    <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <asp:Button ID="Button1" runat="server" Text="Submit" />
+&nbsp;
+                    <asp:Label ID="Label1" runat="server" Font-Size="20pt" 
+                        Text="This is the master Page"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        <asp:Label ID="Label2" runat="server" Text="CopyRight @ no problemo."></asp:Label>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,20 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\bin\Debug\module1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\bin\Debug\module1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\bin\Debug\module1.xml
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\module1.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\module1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\module1.xml
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\module1\module1\obj\x86\Debug\module1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\module1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\module1.xml
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\module1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\bin\Debug\module1.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\bin\Debug\module1.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\bin\Debug\module1.xml
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\module1.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\assignment\ass7\1\module1\obj\x86\Debug\GenerateResource.write.1.tlog

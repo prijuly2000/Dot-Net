@@ -1,0 +1,13 @@
+D:\MS.Net\CSharp\BatchB_Quiz\bin\Debug\BatchB_Quiz.exe
+D:\MS.Net\CSharp\BatchB_Quiz\bin\Debug\BatchB_Quiz.pdb
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\BatchB_Quiz.Properties.Resources.resources
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\BatchB_Quiz.exe
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\BatchB_Quiz.pdb
+D:\MS.Net\CSharp\BatchB_Quiz\bin\Debug\BatchB_LoginControl.dll
+D:\MS.Net\CSharp\BatchB_Quiz\bin\Debug\BatchB_LoginControl.pdb
+D:\MS.Net\CSharp\BatchB_Quiz\obj\x86\Debug\BatchB_Quiz.Form1.resources
+D:\MS.Net\CSharp\BatchB_Quiz\bin\Debug\MyDll.dll
+D:\MS.Net\CSharp\BatchB_Quiz\bin\Debug\MyDll.pdb

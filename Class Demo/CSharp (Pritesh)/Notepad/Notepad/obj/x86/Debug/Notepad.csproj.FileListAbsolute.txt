@@ -1,0 +1,9 @@
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+D:\nt-pritz\MS.NET\MS FRAMEWORK\CLASS DEMO\Notepad\Notepad\obj\x86\Debug\Notepad.pdb

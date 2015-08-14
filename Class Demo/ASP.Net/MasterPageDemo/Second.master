@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Second.master.cs" Inherits="Second" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <style type="text/css">
+        .style1
+        {
+            width: 99%;
+            height: 359px;
+        }
+        .style2
+        {
+            width: 235px;
+        }
+        .style3
+        {
+            width: 235px;
+            height: 158px;
+        }
+        .style4
+        {
+            height: 158px;
+        }
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <table bgcolor="#CCFFCC" border="1" class="style1">
+            <tr>
+                <td class="style3">
+                    <asp:Image ID="Image1" runat="server" Height="132px" 
+                        ImageUrl="~/Images/Blue hills.jpg" Width="166px" />
+                </td>
+                <td class="style4" colspan="2">
+                    <asp:Label ID="Label1" runat="server" Font-Names="Algerian" 
+                        Font-Size="XX-Large" ForeColor="#009999" Text="Second Master Page"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td class="style2">
+                    <asp:HyperLink ID="HyperLink1" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="Red" NavigateUrl="~/1.aspx">First Page</asp:HyperLink>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style2">
+                    <asp:HyperLink ID="HyperLink2" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="Red" NavigateUrl="~/2.aspx">Second Page</asp:HyperLink>
+                </td>
+                <td>
+                    &nbsp;</td>
+                <td>
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td class="style2">
+                    <asp:HyperLink ID="HyperLink3" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="Red" NavigateUrl="~/3.aspx">Third Page</asp:HyperLink>
+                </td>
+                <td>
+                    &nbsp;</td>
+                <td>
+                    &nbsp;</td>
+            </tr>
+        </table>
+    
+    </div>
+    </form>
+</body>
+</html>

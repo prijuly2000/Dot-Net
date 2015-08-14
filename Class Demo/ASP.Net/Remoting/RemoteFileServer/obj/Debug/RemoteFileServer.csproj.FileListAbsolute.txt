@@ -1,0 +1,16 @@
+E:\Object\Courses\CSharp.Net\MKCL\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.exe
+E:\Object\Courses\CSharp.Net\MKCL\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.pdb
+E:\Object\Courses\CSharp.Net\MKCL\Remoting\RemoteFileServer\obj\Debug\ResolveAssemblyReference.cache
+E:\Object\Courses\CSharp.Net\MKCL\Remoting\RemoteFileServer\obj\Debug\RemoteFileServer.exe
+E:\Object\Courses\CSharp.Net\MKCL\Remoting\RemoteFileServer\obj\Debug\RemoteFileServer.pdb
+D:\Object\Courses\C#\Demo\Remoting\RemoteFileServer\obj\Debug\RemoteFileServer.exe
+D:\Object\Courses\C#\Demo\Remoting\RemoteFileServer\obj\Debug\RemoteFileServer.pdb
+D:\Object\Courses\C#\Demo\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.exe
+D:\Object\Courses\C#\Demo\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.pdb
+D:\Object\Courses\C#\Demo\Remoting\RemoteFileServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Vaishali\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.exe.config
+D:\Vaishali\Remoting\RemoteFileServer\obj\Debug\RemoteFileServer.pdb
+D:\Vaishali\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.exe
+D:\Vaishali\Remoting\RemoteFileServer\bin\Debug\RemoteFileServer.pdb
+D:\Vaishali\Remoting\RemoteFileServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Vaishali\Remoting\RemoteFileServer\obj\Debug\RemoteFileServer.exe

@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="First.master.cs" Inherits="First" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+   
+    <style type="text/css">
+        .style1
+        {
+            width: 97%;
+            height: 299px;
+        }
+    </style>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        <table bgcolor="#FFFFCC" border="1" class="style1">
+            <tr>
+                <td>
+                    <asp:Image ID="Image1" runat="server" Height="132px" 
+                        ImageUrl="~/Images/Sunset.jpg" Width="166px" />
+                </td>
+                <td colspan="2">
+                    <asp:Label ID="Label1" runat="server" Font-Names="Algerian" 
+                        Font-Size="XX-Large" ForeColor="#FF3300" Text="First Master Page"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:HyperLink ID="HyperLink1" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="Red" NavigateUrl="~/1.aspx">First Page</asp:HyperLink>
+                </td>
+                <td rowspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <asp:Login ID="Login1" runat="server">
+                        </asp:Login>
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td rowspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        <asp:Wizard ID="Wizard1" runat="server" Height="141px" Width="193px">
+                            <WizardSteps>
+                                <asp:WizardStep runat="server" title="Step 1">
+                                </asp:WizardStep>
+                                <asp:WizardStep runat="server" title="Step 2">
+                                </asp:WizardStep>
+                            </WizardSteps>
+                        </asp:Wizard>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:HyperLink ID="HyperLink2" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="Red" NavigateUrl="~/2.aspx">Second Page</asp:HyperLink>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:HyperLink ID="HyperLink3" runat="server" Font-Names="Algerian" 
+                        Font-Size="Larger" ForeColor="Red" NavigateUrl="~/3.aspx">Third Page</asp:HyperLink>
+                </td>
+                <td colspan="2">
+                    <asp:Label ID="Label2" runat="server" Font-Names="Algerian" Font-Size="Medium" 
+                        ForeColor="#FF3300" Text="Contact Us : www.iacsd.co.in"></asp:Label>
+                </td>
+            </tr>
+        </table>
+       
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\bin\Debug\DisconnectedArch.exe
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\bin\Debug\DisconnectedArch.pdb
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\DisconnectedArch.Form1.resources
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\DisconnectedArch.Properties.Resources.resources
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\DisconnectedArch.exe
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\DisconnectedArch.pdb
+D:\MS.Net\CSharp\DisconnectedArch\DisconnectedArch\obj\x86\Debug\DisconnectedArch.Form2.resources

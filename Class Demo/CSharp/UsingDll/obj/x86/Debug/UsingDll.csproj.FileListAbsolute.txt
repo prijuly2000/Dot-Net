@@ -1,0 +1,11 @@
+D:\MS.Net\CSharp\UsingDll\bin\Debug\UsingDll.exe
+D:\MS.Net\CSharp\UsingDll\bin\Debug\UsingDll.pdb
+D:\MS.Net\CSharp\UsingDll\bin\Debug\TestDll.dll
+D:\MS.Net\CSharp\UsingDll\bin\Debug\TestDll.pdb
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\UsingDll.Form1.resources
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\UsingDll.Properties.Resources.resources
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\UsingDll.exe
+D:\MS.Net\CSharp\UsingDll\obj\x86\Debug\UsingDll.pdb
